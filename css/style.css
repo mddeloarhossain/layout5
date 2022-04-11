@@ -1,0 +1,67 @@
+.bg_color{
+		background-color: gray;
+}
+h2{
+	margin: 0px;
+}
+.header{
+	height: 100px;
+	text-align: center;
+	line-height: 100px;
+}
+.slider{
+	height: 200px;
+	margin-top: 20px;
+	text-align: center;
+	line-height: 200px;
+}
+.navigation{
+	margin: 20px 0px;
+	overflow: hidden;
+}
+.nav{
+	width: 24.25%;
+	float: left;
+	text-align: center;
+}
+.nav h2{
+	padding: 10px 0px;
+}
+.nav1, .nav2, .nav3{
+	margin-right: 1%;
+}
+.nav4{}
+/*Main Content CSS Start*/
+.main_content{
+	margin-top: 20px;
+	overflow: hidden;
+}
+.about{
+	width: 60%;
+	height: 600px;
+	float: left;
+	text-align: center;
+	line-height: 600px;
+}
+.quick_links{
+	width: 38%;
+	float: right;
+}
+.link1{
+	height: 250px;
+	margin-bottom: 20px;
+	text-align: center;
+	line-height: 250px;
+}
+.link2{
+	height: 330px;
+	text-align: center;
+	line-height: 330px;
+}
+/*Main Content CSS End*/
+.footer{
+	height: 150px;
+	margin-top: 20px;
+	text-align: center;
+	line-height: 150px;
+}
